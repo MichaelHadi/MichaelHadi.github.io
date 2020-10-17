@@ -12,8 +12,8 @@ function function1(){
 function function2(){
   var a = document.getElementById("con1").value;
   var b = document.getElementById("con2").value;
-  var c = document.getElementById("con3").value;
-  if (a != "" && b != "" && c != "" ){
+  var c = document.getElementById("con3").checkvalidity();
+  if (a != "" && b != "" && c =="true" ){
     alert ("Thank you for your question " + a +"\n"+"Wait for our response in your email");
   }
 }
