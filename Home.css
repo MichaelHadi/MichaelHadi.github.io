@@ -229,7 +229,9 @@ header{
   background-size : 100% 100%;
   padding:100px;
 }
-
+.pembelajaran {
+  padding : 14px 16px;
+}
 .nav {
   width :100%;
   background-color : #b5651d;
