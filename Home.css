@@ -27,6 +27,9 @@ div.news{
   border : 1px solid #ddd;
   padding : 14px 16px;
 }
+div.jadwal{
+  text-align:center;
+}
 div.card {
   width:auto;
   overflow:hidden;
